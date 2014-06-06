@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 mai 2014, 20:28:10
+    Author     : ouedraog
+*/
+
+// layout
+#top{
+    overflow: hidden;
+    display: table;
+}
+.ui.top.sidebar, .ui.bottom.sidebar{
+    overflow: hidden;
+    height: 60px !important;
+    text-align: center !important;
+}
+.ui.pointing.menu{
+    padding-top: 1px;
+}
+.img-logo{
+    width: 40px;
+    height: 40px; 
+    //display: table-cell;
+}
+#site-slogan{
+    font-size: 20px !important;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#top-buttons{
+    //display: table-cell;
+}
+#top-toolbar{
+    padding-top: 8px;
+}
